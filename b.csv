@@ -2,4 +2,8 @@ id,f,
 so, 
 hard,
  crying,
+<<<<<<< HEAD
 this, change, is , from , branch, master
+a, little, changes,
+to , this ,file
+>>>>>>> feature1
